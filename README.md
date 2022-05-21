@@ -17,6 +17,7 @@
        </a>
 </div>
 
+<br>
 
      
 <div align="center">
@@ -25,7 +26,7 @@
   <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=urbantechgirl&show_icons=true&theme=gotham&count_private=true">
 </div>
 
-
+<br>
 
 
 <div align="center">
@@ -44,6 +45,7 @@
 
 
 
+<br>
 
 <div id="badges"  align="center">
 
@@ -51,13 +53,17 @@
 
 </div>
 
+<br>
+
 <h3>My articles</h2>
 
 1) https://angelic.hashnode.dev/cryptocurrency-tutorial-using-metamask-and-remix-ide
 
+<br>
+
 2) https://angelic.hashnode.dev/custodial-vs-non-custodial-wallets
 
-</div>
+<br>
 
  </div>
 <div id="badges"  align="center">
