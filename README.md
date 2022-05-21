@@ -10,7 +10,7 @@
 <div id="badges"  align="center">
     
     
-![]
+
     <img  src="https://img.shields.io/github/followers/urbantechgirl?label=Follow" alt="number of followers"/>
     <img src="https://img.shields.io/github/stars/urbantechgirl?affiliations=OWNER%2CCOLLABORATOR" alt="number of stars"/>
     
