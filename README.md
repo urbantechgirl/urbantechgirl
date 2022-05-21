@@ -54,7 +54,7 @@
 <h3>My articles</h2>
 
 1) https://angelic.hashnode.dev/cryptocurrency-tutorial-using-metamask-and-remix-ide
-</div>
+
 2) https://angelic.hashnode.dev/custodial-vs-non-custodial-wallets
 
 </div>
