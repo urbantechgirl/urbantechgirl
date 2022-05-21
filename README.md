@@ -51,13 +51,15 @@
 
 </div>
 
-<h2>list of articles</h2>
+<h3>My articles</h2>
 
-https://angelic.hashnode.dev/cryptocurrency-tutorial-using-metamask-and-remix-ide
+1) https://angelic.hashnode.dev/cryptocurrency-tutorial-using-metamask-and-remix-ide
 </div>
-https://angelic.hashnode.dev/custodial-vs-non-custodial-wallets
+2) https://angelic.hashnode.dev/custodial-vs-non-custodial-wallets
 
- 
+</div>
+
+ </div>
 <div id="badges"  align="center">
   <a href="https://angelic.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
