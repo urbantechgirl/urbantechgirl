@@ -3,7 +3,7 @@
 
 <div id="badges"  align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Taking+my+life+into+my+hands)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=My+Name+Is+Z+Q+Q)](https://git.io/typing-svg)
     
   </div>
 
@@ -51,9 +51,11 @@
 
 </div>
 
+<h2>list of articles</h2>
 
-
-
+https://angelic.hashnode.dev/cryptocurrency-tutorial-using-metamask-and-remix-ide
+</div>
+https://angelic.hashnode.dev/custodial-vs-non-custodial-wallets
 
  
 <div id="badges"  align="center">
