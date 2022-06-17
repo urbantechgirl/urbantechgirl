@@ -3,7 +3,7 @@
 
 <div id="badges"  align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=My+Name+Is+Z+Q+Q)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=My+Name+Is+Z+E+E)](https://git.io/typing-svg)
     
   </div>
 
