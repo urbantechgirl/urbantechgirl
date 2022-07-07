@@ -57,7 +57,7 @@
 
 <h3>My articles</h2>
 
-1) https://angelic.hashnode.dev/cryptocurrency-tutorial-using-metamask-and-remix-ide
+1) https://angelic.hashnode.dev/how-to-create-a-crypto-token-using-metamask-and-remix-ide
 
 <br>
 
